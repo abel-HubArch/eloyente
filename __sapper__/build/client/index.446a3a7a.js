@@ -1,1 +1,0 @@
-import{S as s,i as a,s as t,e,t as o,c as r,a as l,b as c,d as n,f as i,g as u,n as d}from"./client.65e0d970.js";function f(s){let a,t;return{c(){a=e("h1"),t=o("Hola")},l(s){a=r(s,"H1",{});var e=l(a);t=c(e,"Hola"),e.forEach(n)},m(s,e){i(s,a,e),u(a,t)},p:d,i:d,o:d,d(s){s&&n(a)}}}export default class extends s{constructor(s){super(),a(this,s,null,f,t,{})}}

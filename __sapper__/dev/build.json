@@ -2,30 +2,30 @@
   "bundler": "rollup",
   "shimport": "2.0.4",
   "assets": {
-    "main": "client.8bb3be2c.js"
+    "main": "client.5926675a.js"
   },
   "css": {},
   "dependencies": {
     "index.svelte": [
-      "index.362f4d6c.js",
+      "index.a01e4991.js",
       "inject_styles.5607aec6.js"
     ],
     "noticias/cancilleria-de-peru-envia-nota-de-protesta-a-bolivia.svelte": [
-      "cancilleria-de-peru-envia-nota-de-protesta-a-bolivia.c326853f.js",
+      "cancilleria-de-peru-envia-nota-de-protesta-a-bolivia.694cf405.js",
       "inject_styles.5607aec6.js",
       "cancilleria-de-peru-envia-nota-de-protesta-a-bolivia-9432cbfb.css"
     ],
     "about.svelte": [
-      "about.4d293f91.js",
+      "about.66aa7528.js",
       "inject_styles.5607aec6.js"
     ],
     "blog/index.svelte": [
-      "index.bb989810.js",
+      "index.1a440923.js",
       "inject_styles.5607aec6.js",
       "index-7ed37c94.css"
     ],
     "blog/[slug].svelte": [
-      "[slug].fc7022b6.js",
+      "[slug].63a11b0c.js",
       "inject_styles.5607aec6.js",
       "[slug]-5bc8f95f.css"
     ]
